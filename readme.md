@@ -12,9 +12,8 @@ npm install is-friday-13
 ## Usage
 ```
 const isFriday13 = require("is-friday-13");
-const spookyCheck = isFriday13();
 
-console.log(spookyCheck);
+isFriday13();
 ```
 
 ## Patch Notes
