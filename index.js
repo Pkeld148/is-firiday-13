@@ -50,5 +50,5 @@ function isFriday13() {
     );
   }
 }
-isFriday13();
+
 module.exports = isFriday13;
